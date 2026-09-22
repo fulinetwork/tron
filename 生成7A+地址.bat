@@ -1,0 +1,4 @@
+@echo off 
+echo [1;32m ¡¾Éú³É Î²ºÅ7Î» ÏàÍ¬×Ö·ûµÄÇ®°üµØÖ· - °üº¬8A 9A 10A¡¿ [0m
+gpu.exe --lianhao address.txt  --hou 7 --quit 1
+pause
